@@ -1,0 +1,14 @@
+C:\Users\Mirdavud\Desktop\Homework\Access modifiers,Namespace,Array in class\Access modifiers,Namespace,Array in class\obj\Debug\net6.0\Access modifiers,Namespace,Array in class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mirdavud\Desktop\Homework\Access modifiers,Namespace,Array in class\Access modifiers,Namespace,Array in class\obj\Debug\net6.0\Access modifiers,Namespace,Array in class.AssemblyInfoInputs.cache
+C:\Users\Mirdavud\Desktop\Homework\Access modifiers,Namespace,Array in class\Access modifiers,Namespace,Array in class\obj\Debug\net6.0\Access modifiers,Namespace,Array in class.AssemblyInfo.cs
+C:\Users\Mirdavud\Desktop\Homework\Access modifiers,Namespace,Array in class\Access modifiers,Namespace,Array in class\obj\Debug\net6.0\Access modifiers,Namespace,Array in class.csproj.CoreCompileInputs.cache
+C:\Users\Mirdavud\Desktop\Homework\Access modifiers,Namespace,Array in class\Access modifiers,Namespace,Array in class\bin\Debug\net6.0\Access modifiers,Namespace,Array in class.exe
+C:\Users\Mirdavud\Desktop\Homework\Access modifiers,Namespace,Array in class\Access modifiers,Namespace,Array in class\bin\Debug\net6.0\Access modifiers,Namespace,Array in class.deps.json
+C:\Users\Mirdavud\Desktop\Homework\Access modifiers,Namespace,Array in class\Access modifiers,Namespace,Array in class\bin\Debug\net6.0\Access modifiers,Namespace,Array in class.runtimeconfig.json
+C:\Users\Mirdavud\Desktop\Homework\Access modifiers,Namespace,Array in class\Access modifiers,Namespace,Array in class\bin\Debug\net6.0\Access modifiers,Namespace,Array in class.dll
+C:\Users\Mirdavud\Desktop\Homework\Access modifiers,Namespace,Array in class\Access modifiers,Namespace,Array in class\bin\Debug\net6.0\Access modifiers,Namespace,Array in class.pdb
+C:\Users\Mirdavud\Desktop\Homework\Access modifiers,Namespace,Array in class\Access modifiers,Namespace,Array in class\obj\Debug\net6.0\Access modifiers,Namespace,Array in class.dll
+C:\Users\Mirdavud\Desktop\Homework\Access modifiers,Namespace,Array in class\Access modifiers,Namespace,Array in class\obj\Debug\net6.0\refint\Access modifiers,Namespace,Array in class.dll
+C:\Users\Mirdavud\Desktop\Homework\Access modifiers,Namespace,Array in class\Access modifiers,Namespace,Array in class\obj\Debug\net6.0\Access modifiers,Namespace,Array in class.pdb
+C:\Users\Mirdavud\Desktop\Homework\Access modifiers,Namespace,Array in class\Access modifiers,Namespace,Array in class\obj\Debug\net6.0\Access modifiers,Namespace,Array in class.genruntimeconfig.cache
+C:\Users\Mirdavud\Desktop\Homework\Access modifiers,Namespace,Array in class\Access modifiers,Namespace,Array in class\obj\Debug\net6.0\ref\Access modifiers,Namespace,Array in class.dll

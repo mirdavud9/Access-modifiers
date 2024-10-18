@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Access modifiers,Namespace,Array in class/1.0.0": {
+        "runtime": {
+          "Access modifiers,Namespace,Array in class.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Access modifiers,Namespace,Array in class/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
